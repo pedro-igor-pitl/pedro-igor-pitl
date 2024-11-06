@@ -1,4 +1,4 @@
-<br clear="both"> <h1 align="center">Olá! Seja bem-vindo ao meu GitHub</h1> <h3 align="center">Aqui compartilho projetos e tecnologias que estou explorando e desenvolvendo ao longo da minha jornada.</h3>
+<br clear="both"> <h1 align="center">Olá! Seja bem-vindo ao meu GitHub</h1> <h4 align="center">Aqui compartilho projetos e tecnologias que estou explorando e desenvolvendo ao longo da minha jornada.</h4>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pedro-igor-pitl&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark&locale=pt-br&hide_border=true" height="199" alt="stats graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-igor-pitl&layout=compact&card_width=320&langs_count=12&theme=vue-dark&hide_border=true" height="200" alt="languages graph" /> </div>
 
 ###
