@@ -1,19 +1,9 @@
-<br clear="both">
-
-<h2 align="center">Olá! Aqui compartilho projetos e tecnologias que estou explorando e desenvolvendo ao longo da minha jornada.</h2>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedro-igor-pitl&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=pt-br&hide_border=true" height="199" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-igor-pitl&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=vue-dark&hide_border=true" height="200" alt="languages graph"  />
-</div>
+<br clear="both"> <h1 align="center">Olá! Seja bem-vindo ao meu GitHub</h1> <h3 align="center">Aqui compartilho projetos e tecnologias que estou explorando e desenvolvendo ao longo da minha jornada.</h3>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pedro-igor-pitl&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark&locale=pt-br&hide_border=true" height="199" alt="stats graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-igor-pitl&layout=compact&card_width=320&langs_count=12&theme=vue-dark&hide_border=true" height="200" alt="languages graph" /> </div>
 
 ###
 
-<img align="right" height="159" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDMyb3Q1bTdwZThoanVmeWN3NWJyNHVpMTJ2OG5qYWw2Zmk1eWpjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp"  />
+<h2 align="center">Tecnologias e Ferramentas</h2>
 
 ###
 
@@ -51,16 +41,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/pedro-igor-torres-luz-7448a7317/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/pedro-igor-pitl/pedro-igor-pitl/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -69,4 +49,15 @@
 
 <h6 align="center">Obrigado por visitar meu perfil! Fique à vontade para explorar os projetos.</h6>
 
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/pedro-igor-torres-luz-7448a7317/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
 ###
