@@ -14,24 +14,55 @@ Atualmente focado no ecossistema Java com Spring Boot e tecnologias modernas de 
 
 ## 🚀 Tecnologias e Ferramentas
 
+### 💻 Back-End
 <div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
+<img width="15"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50"/>
+</div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" alt="kubernetes"/>
-<img width="15"/>
-<img src="https://skillicons.dev/icons?i=git" height="50" alt="git"/>
-<img width="15"/>
-<img src="https://skillicons.dev/icons?i=github" height="50" alt="github"/>
-<img width="15"/>
-<img src="https://skillicons.dev/icons?i=html" height="50" alt="html"/>
-<img width="15"/>
-<img src="https://skillicons.dev/icons?i=css" height="50" alt="css"/>
+---
 
+### 🎨 Front-End
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html" height="50"/>
+<img width="15"/>
+<img src="https://skillicons.dev/icons?i=css" height="50"/>
+</div>
+
+---
+
+### 🗄️ Banco de Dados
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50"/>
+<img width="15"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
+</div>
+
+---
+
+### ⚙️ DevOps / Cloud
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50"/>
+<img width="15"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50"/>
+<img width="15"/>
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
+<img width="15"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img width="15"/>
+<img src="https://skillicons.dev/icons?i=aws" height="50"/>
+</div>
+
+<p align="center"><b>Hostinger</b> (Deploy & Hospedagem)</p>
+
+---
+
+### 🛠️ IDEs e Ferramentas
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50"/>
+<img width="15"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
 </div>
 
 ---
