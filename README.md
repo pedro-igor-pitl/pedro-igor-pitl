@@ -28,6 +28,12 @@ Atualmente focado no ecossistema Java com Spring Boot e tecnologias modernas de 
 <img src="https://skillicons.dev/icons?i=html" height="50"/>
 <img width="15"/>
 <img src="https://skillicons.dev/icons?i=css" height="50"/>
+<img width="15"/>
+<img src="https://skillicons.dev/icons?i=js" height="50"/>
+<img width="15"/>
+<img src="https://skillicons.dev/icons?i=ts" height="50"/>
+<img width="15"/>
+<img src="https://skillicons.dev/icons?i=react" height="50"/>
 </div>
 
 ---
@@ -63,6 +69,8 @@ Atualmente focado no ecossistema Java com Spring Boot e tecnologias modernas de 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50"/>
 <img width="15"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
+<img width="15"/>
+<img src="https://skillicons.dev/icons?i=postman" height="50"/>
 </div>
 
 ---
